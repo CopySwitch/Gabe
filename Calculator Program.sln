@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator Program", "Calculator Program.csproj", "{3F1381CF-35A4-4B44-945C-807C0DB4D79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gabes cool house", "..\Gabes cool house\Gabes cool house.csproj", "{322FB9B4-AF15-4BEE-A740-EEA30DE8E486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1381CF-35A4-4B44-945C-807C0DB4D79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1381CF-35A4-4B44-945C-807C0DB4D79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1381CF-35A4-4B44-945C-807C0DB4D79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1381CF-35A4-4B44-945C-807C0DB4D79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322FB9B4-AF15-4BEE-A740-EEA30DE8E486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322FB9B4-AF15-4BEE-A740-EEA30DE8E486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322FB9B4-AF15-4BEE-A740-EEA30DE8E486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322FB9B4-AF15-4BEE-A740-EEA30DE8E486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44821B3-0891-4EE5-92F5-7FB884033441}
+	EndGlobalSection
+EndGlobal
